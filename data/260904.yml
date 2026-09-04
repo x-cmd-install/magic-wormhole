@@ -7,7 +7,7 @@ about:
   head: cc61606
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:58:55Z
+  collectedAt: 2026-09-04T20:40:01Z
 timeline:
   created: 2015-02-10
   lastCommit: 2026-08-27
@@ -86,6 +86,114 @@ total:
   openIssue: 168
   commit: 2391
 ---
+path: /home/runner/.x-repo/github.com/magic-wormhole/magic-wormhole
+collectedAt: 2026-09-04T20:40:03Z
+loc:
+  Python:
+    code: 20274
+    comments: 2646
+    blanks: 4145
+    files: 98
+  ReStructuredText:
+    code: 3022
+    comments: 0
+    blanks: 854
+    files: 16
+  Svg:
+    code: 1998
+    comments: 1
+    blanks: 1
+    files: 1
+  JavaScript:
+    code: 840
+    comments: 130
+    blanks: 106
+    files: 1
+  Css:
+    code: 77
+    comments: 4
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 77
+    comments: 17
+    blanks: 24
+    files: 3
+  Ini:
+    code: 49
+    comments: 5
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 34
+    comments: 2
+    blanks: 3
+    files: 1
+  RPMSpecfile:
+    code: 32
+    comments: 5
+    blanks: 6
+    files: 1
+  Zsh:
+    code: 31
+    comments: 3
+    blanks: 7
+    files: 1
+  Bash:
+    code: 26
+    comments: 0
+    blanks: 7
+    files: 1
+  Html:
+    code: 18
+    comments: 0
+    blanks: 4
+    files: 1
+  Toml:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Fish:
+    code: 14
+    comments: 0
+    blanks: 4
+    files: 1
+  ForgeConfig:
+    code: 13
+    comments: 1
+    blanks: 2
+    files: 1
+  Batch:
+    code: 12
+    comments: 7
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 1
+    comments: 12
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 613
+    blanks: 193
+    files: 2
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 26543
+  comments: 3453
+  blanks: 5388
+  files: 135
 ---
 date: "2026-08-24"
 repo:
