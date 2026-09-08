@@ -5,7 +5,7 @@ about:
   head: cc61606
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T01:27:16Z
+  collectedAt: 2026-09-08T03:23:57Z
 timeline:
   created: 2015-02-10
   lastCommit: 2026-08-27
@@ -85,7 +85,7 @@ total:
   commit: 2391
 ---
 path: /home/runner/.x-repo/github.com/magic-wormhole/magic-wormhole
-collectedAt: 2026-09-08T01:27:18Z
+collectedAt: 2026-09-08T03:24:01Z
 loc:
   Python:
     code: 20274
