@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:48:55Z
+  collectedAt: 2026-09-10T20:27:32Z
 timeline:
   created: 2015-02-10
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 22920
+  star: 22922
   watcher: 207
   fork: 754
   release: 0
@@ -89,7 +89,7 @@ total:
   commit: 2391
 ---
 path: /home/runner/.x-repo/github.com/magic-wormhole/magic-wormhole
-collectedAt: 2026-09-10T15:48:57Z
+collectedAt: 2026-09-10T20:27:33Z
 loc:
   Python:
     code: 20274
