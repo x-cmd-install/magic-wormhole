@@ -14,11 +14,11 @@ x install magic-wormhole
 
 ## Code insight
 
-Total: **26,543** lines of code across **117** files in the top 5 languages.
+Total: **26,555** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 20,274 | 2,646 | 4,145 | 98 |
+| Python | 20,286 | 2,649 | 4,147 | 98 |
 | ReStructuredText | 3,022 | 0 | 854 | 16 |
 | Svg | 1,998 | 1 | 1 | 1 |
 | JavaScript | 840 | 130 | 106 | 1 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,996 · **Forks**: 760 · **Open issues**: 413 · **Contributors**: 88
+- **Stars**: 22,997 · **Forks**: 760 · **Open issues**: 413 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 259 · **Open PRs**: 15 · **Closed issues**: 244 · **Open issues**: 169 · **Commits**: 2391
+- **Releases**: 0 · **Merged PRs**: 260 · **Open PRs**: 14 · **Closed issues**: 245 · **Open issues**: 168 · **Commits**: 2394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-08-17 | 0 | 6 | 4 | 2 | 3 | 7 |
-| 90d | 2026-07-18 | 0 | 7 | 4 | 3 | 3 | 9 |
-| last180d | 2026-04-19 | 0 | 16 | 4 | 5 | 4 | 22 |
-| 360d | 2025-10-21 | 0 | 33 | 9 | 12 | 7 | 61 |
-| last720d | 2024-10-26 | 0 | 100 | 11 | 38 | 31 | 638 |
+| 30d | 2026-09-17 | 0 | 1 | 0 | 2 | 0 | 2 |
+| last60d | 2026-08-18 | 0 | 7 | 3 | 3 | 2 | 9 |
+| 90d | 2026-07-19 | 0 | 8 | 3 | 4 | 2 | 11 |
+| last180d | 2026-04-20 | 0 | 17 | 3 | 6 | 3 | 24 |
+| 360d | 2025-10-22 | 0 | 34 | 8 | 13 | 6 | 63 |
+| last720d | 2024-10-27 | 0 | 101 | 10 | 39 | 30 | 641 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T01:46:12Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T01:41:07Z._
