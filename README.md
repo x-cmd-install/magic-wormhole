@@ -42,22 +42,39 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,007 · **Forks**: 760 · **Open issues**: 413 · **Contributors**: 89
+- **Stars**: 23,008 · **Forks**: 762 · **Open issues**: 413 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 261 · **Open PRs**: 14 · **Closed issues**: 245 · **Open issues**: 168 · **Commits**: 2397
+- **Releases**: 0 · **Merged PRs**: 261 · **Open PRs**: 16 · **Closed issues**: 245 · **Open issues**: 168 · **Commits**: 2397
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 0 | 2 | 0 | 4 |
-| last60d | 2026-08-23 | 0 | 7 | 2 | 3 | 2 | 7 |
-| 90d | 2026-07-24 | 0 | 9 | 3 | 4 | 2 | 12 |
-| last180d | 2026-04-25 | 0 | 18 | 3 | 6 | 3 | 26 |
-| 360d | 2025-10-27 | 0 | 35 | 8 | 13 | 6 | 65 |
-| last720d | 2024-11-01 | 0 | 102 | 10 | 39 | 30 | 644 |
+| 30d | 2026-09-23 | 0 | 2 | 2 | 2 | 0 | 4 |
+| last60d | 2026-08-24 | 0 | 5 | 4 | 2 | 2 | 7 |
+| 90d | 2026-07-25 | 0 | 9 | 5 | 4 | 2 | 12 |
+| last180d | 2026-04-26 | 0 | 18 | 5 | 6 | 3 | 26 |
+| 360d | 2025-10-28 | 0 | 35 | 10 | 13 | 6 | 65 |
+| last720d | 2024-11-02 | 0 | 102 | 12 | 39 | 30 | 644 |
+
+## Distribution status
+
+Reported by **95** distros on [repology.org](https://repology.org/project/magic-wormhole). **31** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.18.0` | ⚠️ outdated |
+| Debian 14 | `0.18.0` | ⚠️ outdated |
+| Debian 13 | `0.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.18.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.12.0` | ⚠️ outdated |
+| Arch | `0.24.0` | ✅ latest |
+| Homebrew | `0.24.0` | ✅ latest |
+| Nix unstable | `0.24.0` | ✅ latest |
+| Void | `0.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.24.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +85,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T02:01:34Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T02:04:30Z._
