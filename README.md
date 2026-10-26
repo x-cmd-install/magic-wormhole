@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,013 · **Forks**: 762 · **Open issues**: 413 · **Contributors**: 88
+- **Stars**: 23,016 · **Forks**: 762 · **Open issues**: 413 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 2 | 3 | 2 | 0 | 4 |
-| last60d | 2026-08-26 | 0 | 3 | 5 | 2 | 1 | 7 |
-| 90d | 2026-07-27 | 0 | 9 | 6 | 4 | 2 | 12 |
-| last180d | 2026-04-28 | 0 | 17 | 6 | 6 | 3 | 26 |
-| 360d | 2025-10-30 | 0 | 33 | 10 | 12 | 6 | 65 |
-| last720d | 2024-11-04 | 0 | 101 | 13 | 39 | 30 | 644 |
+| 30d | 2026-09-26 | 0 | 2 | 3 | 2 | 0 | 4 |
+| last60d | 2026-08-27 | 0 | 2 | 3 | 2 | 0 | 4 |
+| 90d | 2026-07-28 | 0 | 9 | 6 | 4 | 2 | 12 |
+| last180d | 2026-04-29 | 0 | 17 | 6 | 6 | 3 | 26 |
+| 360d | 2025-10-31 | 0 | 33 | 10 | 12 | 6 | 61 |
+| last720d | 2024-11-05 | 0 | 101 | 13 | 39 | 30 | 644 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T01:50:37Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T01:52:10Z._
