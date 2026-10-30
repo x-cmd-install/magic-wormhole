@@ -2,25 +2,25 @@ about:
   description: "get things from one computer to another, safely"
   license: MIT
   homepage: https://magic-wormhole.readthedocs.io/en/latest/
-  head: 5db1ebe
+  head: 82ee62a
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T02:58:21Z
+  collectedAt: 2026-10-30T03:02:52Z
 timeline:
   created: 2015-02-10
-  lastCommit: 2026-10-21
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 23059
+  star: 23062
   watcher: 205
   fork: 766
   release: 0
   contributor: 88
-  pullRequest: 328
+  pullRequest: 329
   issue: 413
 language:
   Python: 910275
@@ -33,63 +33,63 @@ language:
 totalBytes: 958630
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 2
+    mergedPR: 3
     openPR: 3
     closedIssue: 1
     openIssue: 0
-    commit: 4
+    commit: 5
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 2
+    mergedPR: 3
     openPR: 3
     closedIssue: 2
     openIssue: 0
-    commit: 4
+    commit: 5
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 9
+    mergedPR: 10
     openPR: 6
     closedIssue: 3
     openIssue: 2
-    commit: 12
+    commit: 13
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 17
+    mergedPR: 18
     openPR: 6
     closedIssue: 6
     openIssue: 3
-    commit: 26
+    commit: 27
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 33
+    mergedPR: 34
     openPR: 10
     closedIssue: 12
     openIssue: 6
-    commit: 61
+    commit: 62
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
-    mergedPR: 100
+    mergedPR: 101
     openPR: 13
     closedIssue: 38
     openIssue: 30
-    commit: 639
+    commit: 641
 total:
   release: 0
-  mergedPR: 260
+  mergedPR: 261
   openPR: 17
   closedIssue: 245
   openIssue: 168
-  commit: 2397
+  commit: 2399
 ---
 path: /home/runner/.x-repo/github.com/magic-wormhole/magic-wormhole
-collectedAt: 2026-10-29T02:58:22Z
+collectedAt: 2026-10-30T03:02:53Z
 loc:
   Python:
     code: 20286
