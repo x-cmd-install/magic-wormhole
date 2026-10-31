@@ -14,12 +14,12 @@ x install magic-wormhole
 
 ## Code insight
 
-Total: **26,555** lines of code across **117** files in the top 5 languages.
+Total: **26,584** lines of code across **118** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 20,286 | 2,649 | 4,147 | 98 |
-| ReStructuredText | 3,022 | 0 | 860 | 16 |
+| Python | 20,311 | 2,649 | 4,150 | 99 |
+| ReStructuredText | 3,026 | 0 | 860 | 16 |
 | Svg | 1,998 | 1 | 1 | 1 |
 | JavaScript | 840 | 130 | 106 | 1 |
 | Css | 77 | 4 | 19 | 1 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,062 · **Forks**: 766 · **Open issues**: 413 · **Contributors**: 88
+- **Stars**: 23,068 · **Forks**: 766 · **Open issues**: 413 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 261 · **Open PRs**: 17 · **Closed issues**: 245 · **Open issues**: 168 · **Commits**: 2399
+- **Releases**: 0 · **Merged PRs**: 263 · **Open PRs**: 17 · **Closed issues**: 247 · **Open issues**: 166 · **Commits**: 2403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 3 | 3 | 1 | 0 | 5 |
-| last60d | 2026-08-31 | 0 | 3 | 3 | 2 | 0 | 5 |
-| 90d | 2026-08-01 | 0 | 10 | 6 | 3 | 2 | 13 |
-| last180d | 2026-05-03 | 0 | 18 | 6 | 6 | 3 | 27 |
-| 360d | 2025-11-04 | 0 | 34 | 10 | 12 | 6 | 62 |
-| last720d | 2024-11-09 | 0 | 101 | 13 | 38 | 30 | 641 |
+| 30d | 2026-10-01 | 0 | 5 | 3 | 1 | 0 | 7 |
+| last60d | 2026-09-01 | 0 | 5 | 3 | 2 | 0 | 7 |
+| 90d | 2026-08-02 | 0 | 12 | 6 | 3 | 2 | 15 |
+| last180d | 2026-05-04 | 0 | 20 | 6 | 6 | 3 | 29 |
+| 360d | 2025-11-05 | 0 | 36 | 10 | 12 | 6 | 64 |
+| last720d | 2024-11-10 | 0 | 103 | 13 | 40 | 28 | 645 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T03:02:59Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T02:49:43Z._
