@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,088 · **Forks**: 768 · **Open issues**: 414 · **Contributors**: 91
+- **Stars**: 23,091 · **Forks**: 769 · **Open issues**: 414 · **Contributors**: 91
 
 ## Totals (cumulative)
 
@@ -52,12 +52,29 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 10 | 2 | 0 | 1 | 12 |
-| last60d | 2026-09-09 | 0 | 10 | 2 | 2 | 1 | 12 |
-| 90d | 2026-08-10 | 0 | 17 | 5 | 3 | 3 | 20 |
-| last180d | 2026-05-12 | 0 | 25 | 5 | 6 | 4 | 32 |
-| 360d | 2025-11-13 | 0 | 41 | 9 | 12 | 7 | 69 |
-| last720d | 2024-11-18 | 0 | 105 | 12 | 38 | 29 | 648 |
+| 30d | 2026-10-10 | 0 | 9 | 2 | 0 | 1 | 11 |
+| last60d | 2026-09-10 | 0 | 10 | 2 | 2 | 1 | 12 |
+| 90d | 2026-08-11 | 0 | 17 | 5 | 3 | 3 | 19 |
+| last180d | 2026-05-13 | 0 | 23 | 5 | 6 | 4 | 26 |
+| 360d | 2025-11-14 | 0 | 41 | 9 | 12 | 7 | 68 |
+| last720d | 2024-11-19 | 0 | 105 | 12 | 38 | 29 | 647 |
+
+## Distribution status
+
+Reported by **96** distros on [repology.org](https://repology.org/project/magic-wormhole). **31** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.18.0` | ⚠️ outdated |
+| Debian 14 | `0.18.0` | ⚠️ outdated |
+| Debian 13 | `0.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.18.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.12.0` | ⚠️ outdated |
+| Arch | `0.24.0` | ✅ latest |
+| Homebrew | `0.24.0` | ✅ latest |
+| Nix unstable | `0.24.0` | ✅ latest |
+| Void | `0.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.24.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +85,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T02:47:53Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T03:06:44Z._
