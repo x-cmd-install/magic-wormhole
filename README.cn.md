@@ -24,16 +24,6 @@ x install magic-wormhole
 | JavaScript | 840 | 130 | 106 | 1 |
 | Css | 77 | 4 | 19 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **5.8 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/magic-wormhole/magic-wormhole>
@@ -42,7 +32,7 @@ x install magic-wormhole
 
 ## 流行度
 
-- **Star**: 23,109 · **Fork**: 769 · **开放 issue**: 414 · **贡献者**: 91
+- **Star**: 23,113 · **Fork**: 769 · **开放 issue**: 414 · **贡献者**: 91
 
 ## 累计统计
 
@@ -52,12 +42,12 @@ x install magic-wormhole
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 9 | 2 | 0 | 1 | 6 |
-| last60d | 2026-09-18 | 0 | 10 | 2 | 2 | 1 | 12 |
-| 90d | 2026-08-19 | 0 | 16 | 5 | 3 | 3 | 19 |
-| last180d | 2026-05-21 | 0 | 22 | 5 | 6 | 4 | 26 |
-| 360d | 2025-11-22 | 0 | 40 | 9 | 12 | 7 | 67 |
-| last720d | 2024-11-27 | 0 | 104 | 12 | 38 | 29 | 631 |
+| 30d | 2026-10-19 | 0 | 9 | 2 | 0 | 1 | 6 |
+| last60d | 2026-09-19 | 0 | 10 | 2 | 2 | 1 | 12 |
+| 90d | 2026-08-20 | 0 | 15 | 5 | 3 | 3 | 19 |
+| last180d | 2026-05-22 | 0 | 22 | 5 | 6 | 4 | 26 |
+| 360d | 2025-11-23 | 0 | 40 | 9 | 12 | 7 | 67 |
+| last720d | 2024-11-28 | 0 | 104 | 12 | 38 | 29 | 631 |
 
 ## 发行版状态
 
@@ -85,4 +75,4 @@ magic-wormhole 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T05:18:45Z._
+_数据快照: `data/card/261118.yml` · 2026-11-18T04:49:01Z._

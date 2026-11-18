@@ -24,16 +24,6 @@ Total: **26,644** lines of code across **118** files in the top 5 languages.
 | JavaScript | 840 | 130 | 106 | 1 |
 | Css | 77 | 4 | 19 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/magic-wormhole/magic-wormhole>
@@ -42,7 +32,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,109 · **Forks**: 769 · **Open issues**: 414 · **Contributors**: 91
+- **Stars**: 23,113 · **Forks**: 769 · **Open issues**: 414 · **Contributors**: 91
 
 ## Totals (cumulative)
 
@@ -52,12 +42,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 9 | 2 | 0 | 1 | 6 |
-| last60d | 2026-09-18 | 0 | 10 | 2 | 2 | 1 | 12 |
-| 90d | 2026-08-19 | 0 | 16 | 5 | 3 | 3 | 19 |
-| last180d | 2026-05-21 | 0 | 22 | 5 | 6 | 4 | 26 |
-| 360d | 2025-11-22 | 0 | 40 | 9 | 12 | 7 | 67 |
-| last720d | 2024-11-27 | 0 | 104 | 12 | 38 | 29 | 631 |
+| 30d | 2026-10-19 | 0 | 9 | 2 | 0 | 1 | 6 |
+| last60d | 2026-09-19 | 0 | 10 | 2 | 2 | 1 | 12 |
+| 90d | 2026-08-20 | 0 | 15 | 5 | 3 | 3 | 19 |
+| last180d | 2026-05-22 | 0 | 22 | 5 | 6 | 4 | 26 |
+| 360d | 2025-11-23 | 0 | 40 | 9 | 12 | 7 | 67 |
+| last720d | 2024-11-28 | 0 | 104 | 12 | 38 | 29 | 631 |
 
 ## Distribution status
 
@@ -85,4 +75,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T05:18:44Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T04:48:59Z._
