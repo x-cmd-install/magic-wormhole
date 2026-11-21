@@ -1,18 +1,14 @@
-- repo: chocolatey
-  binname: magic-wormhole.portable
-  visiblename: '[Deprecated] Magic Wormhole (Portable)'
-  version: 0.15.1
-  origversion: null
-  status: outdated
-  summary: Get things from one computer to another, safely.
-- repo: gnuguix
+- repo: chimera
+  subrepo: main
   srcname: magic-wormhole
-  binname: magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.21.1
-  origversion: null
+  binname: magic-wormhole-zshcomp
+  visiblename: magic-wormhole-zshcomp
+  version: 0.18.0
+  origversion: 0.18.0-r1
   status: outdated
-  summary: Securely transfer data between computers
+  summary: Utility to transfer data between computers (zsh completions)
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: magic-wormhole
   binnames:
@@ -28,20 +24,6 @@
     - MIT
   categories:
     - Development/Python3
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: magic-wormhole
-  binnames:
-    - magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.18.0
-  origversion: 0.18.0-1
-  status: outdated
-  maintainers:
-    - anarcat@debian.org
-    - jrollins@finestructure.net
-  categories:
-    - utils
 - repo: altsisyphus
   srcname: magic-wormhole
   binnames:
@@ -159,23 +141,19 @@
   summary: Utility to transfer data between computers (Python bytecode)
   licenses:
     - MIT
-- repo: chimera
-  subrepo: main
-  srcname: magic-wormhole
-  binname: magic-wormhole-zshcomp
-  visiblename: magic-wormhole-zshcomp
-  version: 0.18.0
-  origversion: 0.18.0-r1
-  status: outdated
-  summary: Utility to transfer data between computers (zsh completions)
-  licenses:
-    - MIT
 - repo: chocolatey
   binname: magic-wormhole
   visiblename: Magic Wormhole
   version: 0.24.0
   origversion: null
   status: newest
+  summary: Get things from one computer to another, safely.
+- repo: chocolatey
+  binname: magic-wormhole.portable
+  visiblename: '[Deprecated] Magic Wormhole (Portable)'
+  version: 0.15.1
+  origversion: null
+  status: outdated
   summary: Get things from one computer to another, safely.
 - repo: debian_11
   subrepo: bullseye/main
@@ -247,18 +225,6 @@
     - jrollins@finestructure.net
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: magic-wormhole
-  binnames:
-    - magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.11.2
-  origversion: 0.11.2-1
-  status: outdated
-  maintainers:
-    - anarcat@debian.org
-    - jrollins@finestructure.net
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: magic-wormhole
@@ -299,6 +265,14 @@
     - bofh@freebsd.org
   categories:
     - net
+- repo: gnuguix
+  srcname: magic-wormhole
+  binname: magic-wormhole
+  visiblename: magic-wormhole
+  version: 0.21.1
+  origversion: null
+  status: outdated
+  summary: Securely transfer data between computers
 - repo: homebrew
   srcname: magic-wormhole
   visiblename: magic-wormhole
@@ -401,17 +375,6 @@
   licenses:
     - MIT
 - repo: nix_stable_24_05
-  srcname: magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.14.0
-  origversion: null
-  status: outdated
-  summary: Securely transfer data between computers
-  maintainers:
-    - martin.joerg@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
   srcname: python312Packages.magic-wormhole
   visiblename: python3.12-magic-wormhole
   version: 0.14.0
@@ -437,6 +400,17 @@
     - MIT
   categories:
     - python311Packages
+- repo: nix_stable_24_05
+  srcname: magic-wormhole
+  visiblename: magic-wormhole
+  version: 0.14.0
+  origversion: null
+  status: outdated
+  summary: Securely transfer data between computers
+  maintainers:
+    - martin.joerg@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: magic-wormhole
   visiblename: magic-wormhole
@@ -475,19 +449,6 @@
   categories:
     - python311Packages
 - repo: nix_stable_25_05
-  srcname: python313Packages.magic-wormhole
-  visiblename: python3.13-magic-wormhole
-  version: 0.18.0
-  origversion: null
-  status: outdated
-  summary: Securely transfer data between computers
-  maintainers:
-    - martin.joerg@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
   srcname: python312Packages.magic-wormhole
   visiblename: python3.12-magic-wormhole
   version: 0.18.0
@@ -500,6 +461,19 @@
     - MIT
   categories:
     - python312Packages
+- repo: nix_stable_25_05
+  srcname: python313Packages.magic-wormhole
+  visiblename: python3.13-magic-wormhole
+  version: 0.18.0
+  origversion: null
+  status: outdated
+  summary: Securely transfer data between computers
+  maintainers:
+    - martin.joerg@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: nix_stable_25_05
   srcname: magic-wormhole
   visiblename: magic-wormhole
@@ -548,19 +522,6 @@
     - martin.joerg@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_26_05
-  srcname: python313Packages.magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.24.0
-  origversion: null
-  status: newest
-  summary: Securely transfer data between computers
-  maintainers:
-    - martin.joerg@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
 - repo: nix_stable_26_05
   srcname: magic-wormhole
   visiblename: magic-wormhole
@@ -585,6 +546,19 @@
     - MIT
   categories:
     - python314Packages
+- repo: nix_stable_26_05
+  srcname: python313Packages.magic-wormhole
+  visiblename: magic-wormhole
+  version: 0.24.0
+  origversion: null
+  status: newest
+  summary: Securely transfer data between computers
+  maintainers:
+    - martin.joerg@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: nix_unstable
   srcname: python313Packages.magic-wormhole
   visiblename: magic-wormhole
@@ -599,17 +573,6 @@
   categories:
     - python313Packages
 - repo: nix_unstable
-  srcname: magic-wormhole
-  visiblename: magic-wormhole
-  version: 0.24.0
-  origversion: null
-  status: newest
-  summary: Securely transfer data between computers
-  maintainers:
-    - martin.joerg@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
   srcname: python314Packages.magic-wormhole
   visiblename: magic-wormhole
   version: 0.24.0
@@ -622,6 +585,17 @@
     - MIT
   categories:
     - python314Packages
+- repo: nix_unstable
+  srcname: magic-wormhole
+  visiblename: magic-wormhole
+  version: 0.24.0
+  origversion: null
+  status: newest
+  summary: Securely transfer data between computers
+  maintainers:
+    - martin.joerg@gmail.com
+  licenses:
+    - MIT
 - repo: openbsd
   srcname: net/magic-wormhole
   binname: magic-wormhole
@@ -702,7 +676,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: magic-wormhole
   binnames:
     - magic-wormhole
@@ -716,7 +690,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: magic-wormhole
   binnames:
     - magic-wormhole
@@ -787,6 +761,20 @@
   visiblename: magic-wormhole
   version: 0.12.0
   origversion: 0.12.0-1
+  status: outdated
+  maintainers:
+    - anarcat@debian.org
+    - jrollins@finestructure.net
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: magic-wormhole
+  binnames:
+    - magic-wormhole
+  visiblename: magic-wormhole
+  version: 0.18.0
+  origversion: 0.18.0-1
   status: outdated
   maintainers:
     - anarcat@debian.org
