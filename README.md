@@ -24,6 +24,16 @@ Total: **26,658** lines of code across **118** files in the top 5 languages.
 | JavaScript | 840 | 130 | 106 | 1 |
 | Css | 77 | 4 | 19 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.8 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/magic-wormhole/magic-wormhole>
@@ -32,7 +42,7 @@ Total: **26,658** lines of code across **118** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,126 · **Forks**: 770 · **Open issues**: 414 · **Contributors**: 92
+- **Stars**: 23,129 · **Forks**: 770 · **Open issues**: 414 · **Contributors**: 92
 
 ## Totals (cumulative)
 
@@ -42,29 +52,12 @@ Total: **26,658** lines of code across **118** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 6 | 1 | 0 | 1 | 5 |
-| last60d | 2026-09-26 | 0 | 11 | 1 | 2 | 1 | 15 |
-| 90d | 2026-08-27 | 0 | 11 | 1 | 2 | 1 | 15 |
-| last180d | 2026-05-29 | 0 | 22 | 4 | 6 | 4 | 28 |
-| 360d | 2025-11-30 | 0 | 41 | 7 | 12 | 7 | 70 |
-| last720d | 2024-12-05 | 0 | 105 | 11 | 38 | 29 | 634 |
-
-## Distribution status
-
-Reported by **94** distros on [repology.org](https://repology.org/project/magic-wormhole). **31** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.18.0` | ⚠️ outdated |
-| Debian 14 | `0.18.0` | ⚠️ outdated |
-| Debian 13 | `0.18.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.18.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.12.0` | ⚠️ outdated |
-| Arch | `0.24.0` | ✅ latest |
-| Homebrew | `0.24.0` | ✅ latest |
-| Nix unstable | `0.24.0` | ✅ latest |
-| Void | `0.24.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.24.0` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 6 | 1 | 0 | 1 | 5 |
+| last60d | 2026-09-27 | 0 | 11 | 1 | 2 | 1 | 15 |
+| 90d | 2026-08-28 | 0 | 11 | 1 | 2 | 1 | 15 |
+| last180d | 2026-05-30 | 0 | 22 | 4 | 6 | 4 | 28 |
+| 360d | 2025-12-01 | 0 | 41 | 7 | 12 | 7 | 70 |
+| last720d | 2024-12-06 | 0 | 103 | 11 | 38 | 29 | 634 |
 
 ## Improve this data
 
@@ -75,4 +68,4 @@ Install metadata for magic-wormhole lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T05:44:33Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T05:34:17Z._
